@@ -40,7 +40,7 @@ Postman: para probar Measurement Protocol
 
 DB Browser for SQLite (o TablePlus): para explorar bases .db
 
-🚀 Cómo usar
+## 🚀 Cómo usar
 
 Cloná este repositorio:
 
@@ -52,7 +52,7 @@ Instalá las dependencias necesarias (ver sección Requisitos).
 
 Navegá a cada parte (parte-1, parte-2, etc.) y resolvé los ejercicios dentro de las carpetas ejercicio1/, ejercicio2/, etc.
 
-🧠 Objetivo final
+## 🧠 Objetivo final
 
 Adquirir práctica integral en:
 
