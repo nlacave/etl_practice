@@ -22,4 +22,3 @@ Aprender a cargar, limpiar y transformar datos reales con Python, usando las lib
 - Tener instalado Python 3.10+.
 - Usar un entorno virtual para instalar Pandas y NumPy (`pip install pandas numpy`).
 - Ejecutar los scripts en terminal, VSCode o Jupyter Notebook.
-- Dataset sugerido: [Online Retail - Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-dataset).
