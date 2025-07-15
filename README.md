@@ -45,7 +45,9 @@ DB Browser for SQLite (o TablePlus): para explorar bases .db
 Cloná este repositorio:
 
 git clone https://github.com/nlacave/etl_practice.git
+
 cd etl_practice
+
 Instalá las dependencias necesarias (ver sección Requisitos).
 
 Navegá a cada parte (parte-1, parte-2, etc.) y resolvé los ejercicios dentro de las carpetas ejercicio1/, ejercicio2/, etc.
