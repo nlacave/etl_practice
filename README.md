@@ -1,6 +1,6 @@
 # ETL Practice – Preparación para Tagging & Data Engineer Jr
 
-Este repositorio contiene ejercicios prácticos para prepararse para roles técnicos de Tagging and Measurement Analyst Jr con evolución hacia Data Engineer. Cada parte representa una etapa progresiva de aprendizaje con foco en datos reales, tracking y pipelines ETL.
+Este repositorio contiene ejercicios prácticos para prepararse para roles técnicos de Tagging Analyst Jr con evolución hacia Data Engineer. Cada parte representa una etapa progresiva de aprendizaje con foco en datos reales, tracking y pipelines ETL.
 
 ---
 
