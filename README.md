@@ -1,6 +1,6 @@
 # ETL Practice – Preparación para Tagging & Data Engineer Jr
 
-Este repositorio contiene ejercicios prácticos para prepararte para roles técnicos de Tagging and Measurement Analyst Jr con evolución hacia Data Engineer. Cada parte representa una etapa progresiva de aprendizaje con foco en datos reales, tracking y pipelines ETL.
+Este repositorio contiene ejercicios prácticos para prepararse para roles técnicos de Tagging and Measurement Analyst Jr con evolución hacia Data Engineer. Cada parte representa una etapa progresiva de aprendizaje con foco en datos reales, tracking y pipelines ETL.
 
 ---
 
@@ -15,7 +15,6 @@ Cada parte está organizada por temática y contiene subcarpetas por ejercicio:
 - `parte-2-python-pandas-numpy/`  
   Limpieza, transformación y segmentación de datos reales con Pandas y NumPy.  
   Dataset: **Online Retail (Kaggle)**  
-  Ejercicios en carpetas `ejercicio1/`, `ejercicio2/`, etc.
 
 - `parte-3-ga4-apis-measurement-protocol/`  
   Simulación de tracking con GA4 vía Measurement Protocol.  
@@ -42,6 +41,7 @@ Postman: para probar Measurement Protocol
 DB Browser for SQLite (o TablePlus): para explorar bases .db
 
 🚀 Cómo usar
+
 Cloná este repositorio:
 
 git clone https://github.com/nlacave/etl_practice.git
