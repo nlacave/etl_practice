@@ -40,6 +40,8 @@ Postman: para probar Measurement Protocol
 
 DB Browser for SQLite (o TablePlus): para explorar bases .db
 
+---
+
 ## 🚀 Cómo usar
 
 Cloná este repositorio:
@@ -52,6 +54,8 @@ Instalá las dependencias necesarias (ver sección Requisitos).
 
 Navegá a cada parte (parte-1, parte-2, etc.) y resolvé los ejercicios dentro de las carpetas ejercicio1/, ejercicio2/, etc.
 
+---
+
 ## 🧠 Objetivo final
 
 Adquirir práctica integral en:
@@ -63,3 +67,5 @@ Limpieza, transformación y análisis de datos reales
 Automatización de procesos ETL
 
 Persistencia y consulta de datos con SQL
+
+---
